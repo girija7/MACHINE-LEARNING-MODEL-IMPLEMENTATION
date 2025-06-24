@@ -93,6 +93,11 @@ Collaborative filtering (e.g., Netflix recommendations).
 
 Content-based filtering (e.g., news articles).
 
+
+***output***
+[task4 op2.txt](https://github.com/user-attachments/files/20887742/task4.op2.txt)
+[task4 op.txt](https://github.com/user-attachments/files/20887743/task4.op.txt)
+
 E. Autonomous Systems
 Self-driving cars (reinforcement learning).
 
